@@ -1,5 +1,5 @@
 .App {
-  max-width: 860px;
+  max-width: 600px;
   margin:40px auto;
 }
 
@@ -30,3 +30,4 @@ button:hover
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-gap:20px;
 }
+
